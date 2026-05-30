@@ -1,0 +1,22 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_counts": {
+    "经典精选": 200,
+    "日韩剧集": 200,
+    "高分电影": 200,
+    "悬疑犯罪": 200,
+    "爱情喜剧": 200,
+    "动作冒险": 200,
+    "科幻奇幻": 200,
+    "动画家庭": 200,
+    "年代传记": 200,
+    "海外佳作": 200
+  },
+  "m3u8_sources_found": 20,
+  "jpg_files_included": 0,
+  "html_pages": 2014,
+  "logo": "经典日韩影片",
+  "cover_rule": "第 N 条影片引用 ./X.jpg，X=((N-1)%150)+1；ZIP 内不包含 JPG 文件。"
+}
